@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+
+width: 80%;
+
+margin-left: 10%;
+
+margin-right: 10%;
+
+margin-top: 15px;
+
+overflow: hidden;
+}
+.logo{
+
+float: left;
+}
+nav{
+overflow: hidden;
+float: left;
+}
+nav ul{list-style: none;}
+nav ul li{
+    float: left;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+nav ul li a{color: black;text-decoration: none;font-weight: 600;font-size: 18px;}
+header h3{
+    
+float: right;
+}
+.button_section{
+
+height: 20px;
+
+float: right;
+
+background: red;
+
+border-radius: 20px;
+}
+.button_section a{width: 50%;height: auto;border-radius: 5px;text-decoration: none;font-weight: 700;}
+
+
+.banner_section{
+
+width: 80%;
+
+margin-left: 10%;
+
+margin-right: 10%;
+
+margin-top: 15%;
+
+overflow: hidden;
+}
+.text_content{
+    
+float: left;
+    
+width: 50%;
+}
+.text_content h1{
+
+text-align: left;
+
+font-size: 50px;
+
+text-transform: capitalize;
+}
+.text_content p{
+
+margin-top: 20px;
+}
+.img{
+
+float: right;
+
+width: 40%;
+}
+.img img{
+
+width: 100%;
+}
+.demo_section{
+
+width: 90%;
+
+margin-left: 5%;
+
+margin-right: 5%;
+
+margin-top: 15%;
+
+overflow: hidden;
+}
+.demo_section h1{
+
+text-align: center;
+
+text-transform: capitalize;
+
+font-size: 40px;
+
+font-family: -webkit-body;
+
+margin-bottom: 20px;
+}
+.demo_section p{
+
+text-align: center;
+
+font-style: italic;
+
+font-size: 20px;
+
+margin-bottom: 2%;
+}
+.demo_1{float: left;width: 22.5%;}
+.demo_1 img{height: 330px;}
+.demo_1 h2{text-align: center;text-transform: capitalize;}
+.demo_2{float: left;width: 22.5%;}
+.demo_2 img{
+
+height: 330px;
+
+margin-left: 10%;
+}
+.demo_2 h2{
+    
+text-align: center;
+}
+.demo_3{
+
+float: left;
+
+width: 22.5%;
+}
+.demo_3 img{
+
+height: 330px;
+
+margin-left: 15%;
+}
+.demo_3 h2{
+    
+text-align: end;
+    
+text-transform: capitalize;
+}
+.demo_4{
+
+float: right;
+
+width: 22.5%;
+
+margin-right: 1%;
+}
+.demo_4 img{
+
+height: 330px;
+}
+.demo_4 h2{
+    
+text-align: center;
+    
+text-transform: capitalize;
+}
+footer{
+
+margin-top: 10%;
+
+width: 100%;
+
+background: #292640;
+
+padding: 250px;
+}
+footer h1{
+    font-weight: 600;
+    font-size: 50px;
+    color: white;
+    text-transform: capitalize;
+}
